@@ -1,3 +1,4 @@
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 
 <img src="assets/logo.png" alt="Imago Logo" width="300"/>
 
