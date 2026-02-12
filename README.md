@@ -2,7 +2,7 @@
 
 <img src="assets/logo.png" alt="Imago Logo" width="300"/>
 
-# de-bias Template Repository
+# DEBIAS Template Repository
 
 Welcome to the DEBIAS template repository!  
 
