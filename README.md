@@ -50,7 +50,7 @@ See the [LICENSE](LICENSE) file for full details.
 
 ## 🎉 Acknowledging Contributors
 
-We use the [All Contributors Bot](https://allcontributors.org/) to recognize everyone’s work—code, docs, ideas, design, and more.  
+We use the [All Contributors Bot](https://allcontributors.org/) to recognise everyone’s work—code, docs, ideas, design and more.  
 After your PR is merged, comment on an issue or PR:
 
 ```
