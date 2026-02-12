@@ -63,7 +63,7 @@ After your PR is merged, comment on an issue or PR:
 (Replace `@your-username` and the contribution types as appropriate.)
 See the [emoji key](https://allcontributors.org/docs/en/emoji-key) for available contribution types.
 
-Thank you for helping us build open, collaborative, and impactful projects with Imago!
+Thank you for helping us build open, collaborative and impactful projects with DEBIAS!
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
