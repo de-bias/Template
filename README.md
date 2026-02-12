@@ -4,7 +4,7 @@
 
 # de-bias Template Repository
 
-Welcome to the de-bias template repository!  
+Welcome to the DEBIAS template repository!  
 
 ## 🚀 How to Use This Template
 
