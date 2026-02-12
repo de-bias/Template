@@ -14,12 +14,11 @@ Welcome to the DEBIAS template repository!
 4. **Set up repository features**:
    - Update issue and pull request templates in `.github/ISSUE_TEMPLATE/` and `.github/pull_request_template.md` as needed.
    - Configure the [All Contributors Bot](https://allcontributors.org/) for contributor recognition.
-5. **Replace or add your own code, data, and documentation** in the appropriate folders.
-
+5. **Replace or add your own code, data and documentation** in the appropriate folders.
 
 ## 🛠️ Contributing
 
-We welcome contributions of all kinds—code, documentation, ideas, and more!  
+We welcome contributions of all kinds—code, documentation, ideas and more!  
 Please read our [Contributing Guidelines](CONTRIBUTING.md) for step-by-step instructions on how to:
 
 - Fork and clone the repository
@@ -31,7 +30,6 @@ Please read our [Contributing Guidelines](CONTRIBUTING.md) for step-by-step inst
 If you’re new to open source, our guidelines are designed to make it easy for you to get started.  
 If you have questions, open an issue or start a discussion!
 
-
 ## 🙋 License
 
 This repository uses a dual-licensing approach:
@@ -41,7 +39,6 @@ This repository uses a dual-licensing approach:
 
 See the [LICENSE](LICENSE) file for full details.
 
-
 ## 🗂️ Repository Structure
 
 - `assets/` — Images, diagrams, and other media files
@@ -50,7 +47,6 @@ See the [LICENSE](LICENSE) file for full details.
 - `CODE_OF_CONDUCT.md` — Community standards and expectations
 - `LICENSE` — Licensing information
 - `README.md` — Project overview and instructions
-
 
 ## 🎉 Acknowledging Contributors
 
